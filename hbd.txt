@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<head>
+<title>WEBSITE FOR AAKASH BDAY!</title>
+  <meta charset="utf-8">
+ <link rel="icon" href="IMG-20170712-WA0002.jpg">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="css/animate.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
+
+
+  <style>
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: black;
+      
+      font-size:15px;
+    color:#FF7F50;
+    }
+ div.vish {
+  padding-left:400px;
+   max-width:100%;
+    height:auto;
+    top-margin:200px;
+   
+}
+
+
+div.video{
+ font-size:60px;
+ font-family:sofia;
+ 
+}
+
+
+ .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ li.dropdown:hover .dropbtn {
+    background-color:#C96567;
+}
+
+div.dropdown {
+    display: inline-block;
+}
+
+div.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+li.btm:hover{
+    background-color:#C96567;
+}
+
+
+
+#cloud{
+  font-size:135px;
+  color: #0077be;
+  hover:red;
+  }
+
+
+
+
+div.bwish{
+font-family:'Sofia';
+font-size: 60px;
+color:black;!--#F58092;--
+position:relative;}
+div.bwish:hover{
+animation-name:example;
+animation-duration:4s;
+
+transform:rotate(180deg);
+}
+@keyframes example {
+   
+     25%  {color:yellow;  top:100px;}
+    50%  {color:blue; top:0px;}
+    75%  {color:green; top:100px;}
+    100% {color:red;  top:0px;}
+}
+
+div.cld{
+transition:transform 1s;
+}
+div.cld:hover{
+color: #0077be;
+transform:rotate(360deg);  
+
+}
+
+#star1,#star2,#star3,#star4,#star5,#star6,#star7,#star8,#star9,#star10,#star12,#star13 {animation-timing-function:linear ;}
+@keyframes mymove {
+    from {top: 10px;}
+    to {bottom: 300px;}
+}
+
+
+@keyframes exam {
+    0%   {left:0px; top:0px;}
+    25%  {left:800px; top:0px;}
+    50%  {left:800px; top:200px;}
+    75%  { left:0px; top:200px;}
+    100% {left:0px; top:0px;}
+}
+@keyframes smi {
+    0%   {left:0px; top:0px;}
+    25%  {left:700px; top:0px;}
+    50%  {right:700px; top:0px;}
+    75%  { left:700px; top:0px;}
+    100% {right:700px; top:0px;}
+}
+@keyframes smil {
+    0%   {left:0px; top:0px;}
+    25%  {right:700px; top:0px;}
+    50%  {left:700px; top:0px;}
+    75%  { right:700px; top:0px;}
+    100% {left:700px; top:0px;}
+}
+#smile{
+font-family:'Sofia';
+font-size: 60px;
+color:Black;
+text-align:center;
+}
+</style>
+</head>
+<body>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+ 
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      </div>
+          
+      </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+
+       
+      <li class="dropdown">
+
+     <a class="dropbtn" href="hbd.html">Aakash Birthday</a>
+             
+      <div class="dropdown-content">
+      <a target="_blank" href="IMG-20170712-WA0025.jpg">Aakash</a>
+      <a  target="_blank" href="IMG-20170714-WA0000.jpg">Vish bro</a>
+      <a  target="_blank" href="IMG-20170717-WA0004.jpg">Rohit bhai</a>
+      <a target="_blank"  href="IMG-20170717-WA0028.jpg">Bhagyashri Di</a>
+      <a  target="_blank" href="IMG-20170712-WA0006.jpg">Family</a>
+      <a target="_blank" href="Arshi; -) 20160224_235138.jpg">MJ</a>
+      <a target="_blank" href="2016-03-17-15-45-52-176.jpg">Vaibhav</a>
+      <a target="_blank" href="IMG-20170717-WA0023.jpg">Ruski</a>
+      <a target="_blank" href="IMG-20170717-WA0000.jpg">Nili</a>
+      <a target="_blank" href="_20151223_114522.JPG">Minu</a>
+      <a target="_blank" href="IMG-20170712-WA0047.jpg">Ankit</a>
+      <a target="_blank" href="IMG-20170717-WA0002.jpg">Barve</a>
+     <a target="_blank" href="2017-06-19-15-39-52-195.jpg">Piu</a>
+       </div>
+       </li>
+
+
+
+        <li class="btm"><a href="happy.html">Home</a></li>
+        <li class="btm"><a href="Aakash.html">Aakash</a></li>
+        <li class="btm"><a href="Video.html">Video</a></li>
+        <li class="btm"><a href="Mem.html">Memories</a></li>
+      </ul>
+      
+    </div>
+  </div>
+</nav>
+
+
+
+
+
+<span id="star1" style="font-size:30px;color:#A9A9A9;padding:30px;position: relative; animation: mymove 2s infinite;font-size:30px"><i class="fa fa-star"></i></span>
+<span id="star1" style="font-size:30px;color:#A9A9A9;padding:30px;position: relative; animation: mymove 2s infinite;font-size:30px"><i class="fa fa-star"></i></span>
+<span id="star2" style="font-size:30px;color:#A9A9A9;padding:30px;position: relative; animation: mymove 1s infinite;font-size:30px"> <i class="fa fa-star" ></i></span>
+<span id="star3"style="font-size:30px;color:#A9A9A9;padding:30px;position: relative; animation: mymove 1s infinite;font-size:30px"><i class="fa fa-star" ></i></span>
+<span id="star4" style=" position: relative; animation: mymove 2s infinite;font-size:30px;color:#A9A9A9;padding:30px;"><i class="fa fa-star" ></i></span>
+<span id="star5" style="font-size:30px;color:#A9A9A9;padding:30px;position: relative; animation: mymove 2s infinite;"><i class="fa fa-star"></i></span>
+<span id="star6" style="font-size:30px;color:#A9A9A9;padding:30px; position: relative;animation: mymove 2s infinite;"><i class="fa fa-star" ></i></span>
+<span id="star7" style="font-size:30px;color:#A9A9A9;padding:30px; position: relative;animation: mymove 2s infinite;"><i class="fa fa-star"></i></span>
+<span id="star8" style="font-size:30px;color:#A9A9A9;padding:30px; position: relative;animation: mymove 2s infinite;"><i class="fa fa-star"></i></span>
+<span id="star9" style="font-size:30px;color:#A9A9A9;padding:30px; position: relative;animation: mymove 2s infinite;"><i class="fa fa-star"></i></span>
+<span id="star10" style="font-size:30px;color:#A9A9A9;padding:30px; position: relative;animation: mymove 1s infinite;"><i class="fa fa-star"></i></span>
+<span id="star11" style="font-size:30px;color:#A9A9A9;padding:30px; position: relative;animation: mymove 1s infinite;"><i class="fa fa-star"></i></span>
+<span id="star12" style="font-size:30px;color:#A9A9A9;padding:30px; position: relative;animation: mymove 3s infinite;"><i class="fa fa-star"></i></span>
+<span id="star13" style="font-size:30px;color:#A9A9A9;padding:30px; position: relative;animation: mymove 1s infinite;"><i class="fa fa-star"></i></span>
+
+<br>
+<div class="cld">
+<i id="cloud" class="fa fa-cloud"><span style="color:red;font-size: 80px;font-family:Comic Sans MS">A</span></i>
+<i id="cloud" class="fa fa-cloud"><span style="color:red;font-size: 80px;font-family:Comic Sans MS">A</span><br></i>
+<i id="cloud" class="fa fa-cloud"><span style="color:red;font-size: 80px;font-family:Comic Sans MS">K</span></i>
+<i id="cloud" class="fa fa-cloud"><span style="color:red;font-size: 80px;font-family:Comic Sans MS">A</span><br></i>
+<i id="cloud" class="fa fa-cloud"><span style="color:red;font-size: 80px;font-family:Comic Sans MS">S</span></i>
+<i id="cloud" class="fa fa-cloud"><span style="color:red;font-size: 80px;font-family:Comic Sans MS">H</span></i>
+</div>
+<div class="bwish"> We Wish You A Very Happy Birthday Aakash!</div>
+<span style="font-size:200px; color:#5F0F4E; position: relative;animation-name:smi ;animation-duration: 4s;animation-iteration-count: infinite;" ><i class="fa fa-smile-o"></i> 
+</span>
+<p id="smile">Always Keep Smiling!</p>
+<span style="font-size:200px; color:#5F0F4E; position: relative;animation-name:smil ;animation-duration: 4s;animation-iteration-count: infinite;" ><i class="fa fa-smile-o"></i> 
+</span>
+
+ 
+<div class="video">
+    Video for U!
+ <div class="vish">
+      <video width="300" controls>
+       <source src="PhotoGrid_Video_1500108946451.mp4" type="video/mp4">
+         Your browser does not support HTML5 video.
+       </video>
+  </div>
+</div>
+</br>
+<div class="video">
+    Aakash!
+ <div class="vish">
+      <video width="300" controls>
+       <source src="PhotoGrid_Video_1500108326310.mp4" type="video/mp4">
+         Your browser does not support HTML5 video.
+       </video>
+  </div>
+</div>
+</br>
+
+
+<footer class="container-fluid text-center">
+  
+<p>Contact me:</p>
+<pre style="background-color: black; font-size:15px; color:#FF7F50;border:hidden;">
+<i class=" fa fa-female">  Priya Sharma</i>
+<i class=" fa fa-mobile-phone "> 8806244875</i>
+<i class=" fa fa-envelope"> sharma1996priya@gmail.com</i>
+</pre>
+<p>Acknowledgement:</p>
+<pre style="background-color: black; font-size:15px; color:#FF7F50;border:hidden;">
+<p>Special Thanks to</p>
+<i class=" fa fa-male">Er. Rajorshi Gon</i>
+
+</pre>
+
+
+</footer>
+
+
+</body>
+</html>
